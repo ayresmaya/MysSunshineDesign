@@ -1,0 +1,100 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background: url("Portfolio/Double Dash Wallpaper in Blush.jpg")
+}
+
+header h1{ 
+	font-family: fave-script-pro,sans-serif;
+	font-weight: 700px;
+	font-size: 60px;
+	font-style: normal;
+	text-align: center;
+	}
+
+nav{
+	width:100%;
+	text-align: center;
+	background-color: antiquewhite;
+}
+
+nav ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li{
+	display:inline;
+}
+
+nav a:link {
+	margin-right: 100px;
+	margin-left: 100px;
+	text-decoration: none;
+	color: black;
+	font-family: bebas-neue-pro,sans-serif;
+	font-weight: 200;
+	font-style: bold;
+	font-size: 20px;
+}
+
+img{
+	align-content: center;
+	margin-left: 60px;
+	margin-top: 60px;
+}
+
+header h2{
+	font-family: fave-script-pro,sans-serif;
+	font-size: 45px;
+	margin: 40px;
+}
+
+article a2{
+	float: left;
+	width: 300px;
+	margin-left: 45px;
+	margin-bottom: 60px;
+	padding: 15px;
+	font-family: bebas-neue-pro,sans-serif;
+	font-size: 25px;
+	background: rgba(249,222,222,1.00);
+}
+
+article a1{
+	float: left;
+	width: 350px;
+	margin-left: 45px;
+	margin-bottom: 60px;
+	margin-top: 60px;
+	padding: 15px;
+	font-family: bebas-neue-pro,sans-serif;
+	font-size: 25px;
+	background: rgba(249,222,222,1.00);
+}
+
+iFrame{
+	float: right;
+	margin: 30px;
+}
+
+form{
+	margin: 40px;
+}
+header h3{
+	font-family: fave-script-pro,sans-serif;
+	font-size: 45px;
+	margin: 40px;
+}
+
+li{
+	font-family: bebas-neue-pro,sans-serif;
+	font-size: 25px;
+}
+
+form{
+	font-family: bebas-neue-pro,sans-serif;
+	font-size: 25px;
+}
